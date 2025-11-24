@@ -14,14 +14,14 @@
 
 # 👨‍💻 benhabib hicham  |   Student at [**42**](https://www.42lyon.fr/)
 
-- Hey 👋, I’m **elbarry**, a student at **42 School** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
+- Hey 👋, I’m **hicham**, a student at **42 School** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
   Currently enrolled in the **Core Curriculum** at 42, I’m refining my skills in **software development** while exploring the fascinating world of **cybersecurity**.
 
 ---
 
 ## 💡 What I’m currently working on:
 - 🔧 **C projects** at 42  
-- 🧠 Exploring **Cybersecurity**
+
 
 ---
 
@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-<a href="https://github.com/elbarry42">
+<a href="https://github.com/hicham-bnh">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=elbarry42&theme=tokyonight" alt="elbarry42" />
 </a>
 </div>
@@ -67,10 +67,8 @@
 
 ## 🤔 Feel free to reach out if you want to chat about:
 - **C** 💻  
-- **C++** 🔧
 
-### Let’s connect! 🤝
-- [LinkedIn](https://www.linkedin.com/in/elhadj-amadou-barry-157b3b385) 🔗
+
 
 ---
 
