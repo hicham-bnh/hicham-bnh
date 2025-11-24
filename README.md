@@ -38,7 +38,8 @@
 ---
 <div align="center">
 
-<a href="https://github.com/hicham-bnh/libft_42">![42 Badge](https://github.com/elbarry42/elbarry42/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/hicham-bnh/libft_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/hicham-bnh/printf_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/printf.png)</a>
 
 </div>
 
