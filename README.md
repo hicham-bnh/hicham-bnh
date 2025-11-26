@@ -60,7 +60,7 @@
 <div align="center">
 
 <a href="https://github.com/hicham-bnh">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=elbarry42&theme=tokyonight" alt="elbarry42" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-bnh&theme=tokyonight" alt="hicham-bnh" />
 </a>
 </div>
 
