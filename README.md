@@ -40,6 +40,7 @@
 
 <a href="https://github.com/hicham-bnh/libft_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/libftm.png)</a>
 <a href="https://github.com/hicham-bnh/printf_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/hicham-bnh/get_next_line_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/get_next_linem.png)</a>
 
 </div>
 
