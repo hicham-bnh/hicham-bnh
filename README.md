@@ -26,18 +26,28 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
 ---
 
 ## 🧩 42 Projects
+## 🧩 42 Projects
 <p align="center">
+  <!-- Première ligne : libft -->
   <a href="https://github.com/hicham-bnh/libft_42">
-    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/libftm.png" width="120"/>
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/libftm.png" width="140"/>
   </a>
+</p>
+
+<p align="center">
+  <!-- Deuxième ligne : printf & gnl -->
   <a href="https://github.com/hicham-bnh/printf_42">
     <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/ft_printfe.png" width="120"/>
   </a>
   <a href="https://github.com/hicham-bnh/get_next_line_42">
     <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/get_next_linem.png" width="120"/>
   </a>
+</p>
+
+<p align="center">
+  <!-- Troisième ligne : born2beroot -->
   <a href="https://github.com/hicham-bnh/born2beroot_42">
-    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/born2beroote.png" width="120"/>
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/born2beroote.png" width="140"/>
   </a>
 </p>
 
