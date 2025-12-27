@@ -26,7 +26,6 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
 ---
 
 ## 🧩 42 Projects
-## 🧩 42 Projects
 <p align="center">
   <!-- Première ligne : libft -->
   <a href="https://github.com/hicham-bnh/libft_42">
