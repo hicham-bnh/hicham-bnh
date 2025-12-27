@@ -1,78 +1,70 @@
-<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-  <!-- Ligne contenant les deux stats -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hicham-bnh&show_icons=true&theme=gruvbox&count_private=true" alt="hicham-bnh's GitHub stats" style="max-width: 400px; max-height: 1500px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-bnh&hide=java,html,css&layout=compact&theme=radical&hide_title=false" alt="Top Languages" style="max-width: 500px; max-height: 1500px; border-radius: 18px; box-shadow: -7px 5px -7px rgba(0, 0, 0, 0.1);" />
-  </div>
-
-  <!-- Graphique en dessous -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hicham-bnh&theme=xcode&hide_border=true" alt="Activity Graph" style="margin-top: 20px; max-width: 800px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
-</div>
-
-   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
-
-# 👨‍💻 benhabib hicham  |   Student at [**42**](https://www.42lyon.fr/)
-
-- Hey 👋, I’m **hicham**, a student at **42 School** 🎓 passionate about programming and always ready to take on new technical challenges 💻.  
-  Currently enrolled in the **Core Curriculum** at 42, I’m refining my skills in **software development** while exploring the fascinating world of **cybersecurity**.
+# 👨‍💻 Benhabib Hicham  
+🎓 Student at [42 Lyon](https://www.42lyon.fr/)
 
 ---
 
-## 💡 What I’m currently working on:
-- 🔧 **C projects** at 42  
-
+## 👋 About me
+Hey! I'm **Hicham**, a student at **42 School**, passionate about **low-level programming** and problem solving.  
+Currently in the **Core Curriculum**, I’m mainly working with **C**, while slowly exploring **cybersecurity**.
 
 ---
 
-## 🚀 Tools & Technologies I use:
+## 🔧 Currently working on
+- C projects at **42**
+- Algorithmic problem solving
+- Code optimization & memory management
+
+---
+
+## 🚀 Tools & Technologies
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🧩 42 School Projects
----
-<div align="center">
-
-<a href="https://github.com/hicham-bnh/libft_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/libftm.png)</a>
-<a href="https://github.com/hicham-bnh/printf_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/ft_printfe.png)</a>
-<a href="https://github.com/hicham-bnh/get_next_line_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/hicham-bnh/born2beroot_42">![42 Badge](https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/born2beroote.png)</a>
-
-</div>
-
----
-
-> *💻 Amateurs code to make it work 🤷‍♂️, masters code so it never breaks 💪🔥🚀.*
-
----
-
-### 🚩 Badges
+## 🧩 42 Projects
 <p align="center">
-  <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white" alt="Student at 42"/>
+  <a href="https://github.com/hicham-bnh/libft_42">
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/libftm.png" width="120"/>
+  </a>
+  <a href="https://github.com/hicham-bnh/printf_42">
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/ft_printfe.png" width="120"/>
+  </a>
+  <a href="https://github.com/hicham-bnh/get_next_line_42">
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/get_next_linem.png" width="120"/>
+  </a>
+  <a href="https://github.com/hicham-bnh/born2beroot_42">
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/born2beroote.png" width="120"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-
-<a href="https://github.com/hicham-bnh">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-bnh&theme=tokyonight" alt="hicham-bnh" />
-</a>
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-bnh&show_icons=true&theme=gruvbox&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-bnh&layout=compact&theme=radical&hide=html,css,java" height="160"/>
+</p>
 
 ---
 
-## 🤔 Feel free to reach out if you want to chat about:
-- **C** 💻  
-
-
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-bnh&theme=tokyonight"/>
+</p>
 
 ---
 
-✨ Thanks for visiting my profile, and don’t forget to check out my projects! 🚀
+> *Amateurs code to make it work. Masters code so it never breaks.*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white"/>
+</p>
+
+✨ Thanks for visiting my profile!
+
