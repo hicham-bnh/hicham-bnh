@@ -54,14 +54,14 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
 </p>
 
 ---
-
-/*## 📊 GitHub Stats
+<!--
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hicham-bnh&show_icons=true&theme=gruvbox&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-bnh&layout=compact&theme=radical&hide=html,css,java" height="160"/>
-</p>*/
-
+</p>
+-->
 
 
 ---
