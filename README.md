@@ -41,14 +41,15 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
   <a href="https://github.com/hicham-bnh/get_next_line_42">
     <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/get_next_linem.png" width="120"/>
   </a>
+        <a href="https://github.com/hicham-bnh/push_swap_42">
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/push_swapm.png" width="140"/>
+          </a>
 </p>
 
 <p align="center">
   <!-- Troisième ligne : born2beroot -->
   <a href="https://github.com/hicham-bnh/born2beroot_42">
     <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/born2beroote.png" width="140"/>
-      <a href="https://github.com/hicham-bnh/push_swap_42">
-    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/push_swapm.png" width="140"/>
   </a>
 </p>
 
