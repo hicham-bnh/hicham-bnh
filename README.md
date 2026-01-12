@@ -52,9 +52,9 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
     <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/born2beroote.png" width="140"/>
   </a>
 </p>
-
----
 <!--
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
