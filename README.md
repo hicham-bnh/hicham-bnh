@@ -42,7 +42,7 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
     <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/get_next_linem.png" width="120"/>
   </a>
         <a href="https://github.com/hicham-bnh/push_swap_42">
-    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/push_swapem.png" width="120"/>
+    <img src="https://github.com/hicham-bnh/hicham-bnh/blob/main/42_badges/push_swapm.png" width="120"/>
           </a>
 </p>
 
