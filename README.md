@@ -11,6 +11,7 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, while slo
 
 ## 🔧 Currently working on
 - C projects at **42**
+- python projects at **42**
 - Algorithmic problem solving
 - Code optimization & memory management
 
