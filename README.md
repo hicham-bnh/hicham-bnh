@@ -5,7 +5,7 @@
 
 ## 👋 About me
 Hey! I'm **Hicham**, a student at **42 School**, passionate about **low-level programming** and problem solving.  
-Currently in the **Core Curriculum**, I’m mainly working with **C**.
+Currently in the **Core Curriculum**, I’m mainly working with **C**, **python**.
 
 ---
 
