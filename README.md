@@ -33,6 +33,8 @@ Currently in the **Core Curriculum**, I’m mainly working with **C**, **python*
   
   <!-- Shell / Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
 </p>
 
 ---
